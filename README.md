@@ -57,6 +57,23 @@ END OF LOG...
 
 . Make it Look cool while learning alot.
 
-END LOG...
+END OF LOG...
+
+
+## Log 3. - 2.2.2023
+
+. Building a Tretris game is a challenge and its forcing me to learn new concepts and think of coding differently.
+
+. debugging my code every step of the way has help me have less errors when test running my code.
+
+. I have utilized pygame.com and google quite a bit to help me along the way.
+
+. they say to become a master software developer my reserching needs to be just as good as my coding and I see why.
+
+.embedded code, integers, floats, lists, all concepts I am becoming even more familiar with and am utilzing in my code
+
+END OF LOG...
+
+
 
 
