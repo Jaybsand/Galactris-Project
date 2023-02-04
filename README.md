@@ -1,5 +1,5 @@
 # Galactris-Project
-This is my first intermediate project.
+Glactris is my version of Tetris and my first intermediate project with my own twist.
 
 --
 ## Log 1. - 2.1.2023
@@ -74,6 +74,34 @@ END OF LOG...
 
 END OF LOG...
 
+## Log 4. - 2.4.2023
 
+. During the stage of me coding the game I ran into an issue with my IDE.
+
+. The import fuction was not working. I couldnt import pygame or anything else for that matter.
+
+. I was perplexed, with no clue as to why. I researched online for a fix updating my pip through the command prompt on my windows PC.
+
+. I updated my setuptools and my wheel directly from th command prompt.
+
+. I then found that I had mutliple version of python installed which gave me multiple interpreters in my IDE (pycharm)
+
+. I also had mulitple paths in my directory.
+
+. To solve my issues I unstalled everything and completed deleted all files paths and programs.
+
+. loosing all my progress yes im sure this was a drastic choice but I felt it had to be done.
+
+. I then installed the latest version of python and pycharm
+
+. I updated my pip and setuptools for pygame to work properly
+
+. Then I installed pygame from the command prompt and all is well
+
+. I have begun a new making 4 .py files to spread out my code for simplicty seems to work well
+
+. I changed the name of my project from tetris to galactris to give it more flavor and be more ambitious for this project.
+
+END LOG...
 
 
