@@ -105,3 +105,11 @@ END OF LOG...
 END LOG...
 
 
+## Log 5. 2.6.2023
+
+. I spent all weekend coding the Galactris Porject for someone who is coming from nothing this is a great accomplishment.
+
+
+![Galactris](https://user-images.githubusercontent.com/122297091/216996298-7474afa4-7588-4c4d-aa83-7d7365354e6f.PNG)
+ 
+ END LOG...
